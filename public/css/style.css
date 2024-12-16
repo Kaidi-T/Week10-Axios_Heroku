@@ -186,3 +186,9 @@ footer ul li a {
     width: 300px;
     cursor: pointer;
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
